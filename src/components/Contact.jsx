@@ -21,19 +21,19 @@ export default function Contact() {
           </h1>
           <div className="flex w-full justify-evenly mt-3 max-w-xl">
             <a href="">
-              <img className="w-5 md:w-8" src="./src/assets/img/gmail.png" alt="gmail" />
+              <img className="w-5 md:w-8" src="./public/img/gmail.png" alt="gmail" />
             </a>
             <a href="">
               <img
                 className="w-5 md:w-8"
-                src="./src/assets/img/linkedin.png"
+                src="./public/img/linkedin.png"
                 alt="linkedin"
               />
             </a>
             <a href="">
               <img
                 className="w-5 md:w-8"
-                src="./src/assets/img/github.png"
+                src="./public/img/github.png"
                 alt="github"
               />
             </a>

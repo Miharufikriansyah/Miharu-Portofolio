@@ -41,7 +41,7 @@ export default function Hero() {
             >
               <img
                 className="-translate-y-14 brightness-90 lg:-translate-y-20"
-                src="./src/assets/img/Miharu.jpg"
+                src="/public/img/Miharu.jpg"
                 alt="miharu"
               />
             </div>

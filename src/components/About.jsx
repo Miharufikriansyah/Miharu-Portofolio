@@ -7,43 +7,43 @@ export default function About() {
             id : 1,
             tech : "HTML",
             desc : Array(4).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/html-logo.png",
+            src : "./public/img/html-logo.png",
         },
         {
             id : 2,
             tech : "CSS",
             desc : Array(4).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/css-logo.png",
+            src : "./public/img/css-logo.png",
         },
         {
             id : 3,
             tech : "JavaScript",
             desc : Array(3).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/js-logo.png",
+            src : "./public/img/js-logo.png",
         },
         {
             id : 4,
             tech : "Tailwind",
             desc : Array(4).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/tailwind-logo.png",
+            src : "./public/img/tailwind-logo.png",
         },
         {
             id : 5,
             tech : "Bootstrap",
             desc : Array(3).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/bootstrap-logo.png",
+            src : "./public/img/bootstrap-logo.png",
         },
         {
             id : 6,
             tech : "Codeigniter",
             desc : Array(3).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/codeigniter-logo.png"
+            src : "./public/img/codeigniter-logo.png"
         },
         {
             id : 7,
             tech : "React JS",
             desc : Array(2).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./src/assets/img/react-logo.png"
+            src : "./public/img/react-logo.png"
         }
     ]
 
