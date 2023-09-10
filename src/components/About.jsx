@@ -7,13 +7,13 @@ export default function About() {
             id : 1,
             tech : "HTML",
             desc : Array(4).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/html-logo.png",
+            src : "/img/html-logo.png",
         },
         {
             id : 2,
             tech : "CSS",
             desc : Array(4).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/css-logo.png",
+            src : "/img/css-logo.png",
         },
         {
             id : 3,
