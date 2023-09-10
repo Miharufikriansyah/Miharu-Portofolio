@@ -19,31 +19,31 @@ export default function About() {
             id : 3,
             tech : "JavaScript",
             desc : Array(3).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/js-logo.png",
+            src : "/img/js-logo.png",
         },
         {
             id : 4,
             tech : "Tailwind",
             desc : Array(4).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/tailwind-logo.png",
+            src : "/img/tailwind-logo.png",
         },
         {
             id : 5,
             tech : "Bootstrap",
             desc : Array(3).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/bootstrap-logo.png",
+            src : "/img/bootstrap-logo.png",
         },
         {
             id : 6,
             tech : "Codeigniter",
             desc : Array(3).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/codeigniter-logo.png"
+            src : "/img/codeigniter-logo.png"
         },
         {
             id : 7,
             tech : "React JS",
             desc : Array(2).fill().map((_,index)=> (<BsStarFill key={index}/>)),
-            src : "./public/img/react-logo.png"
+            src : "/img/react-logo.png"
         }
     ]
 

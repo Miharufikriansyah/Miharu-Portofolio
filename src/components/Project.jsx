@@ -6,7 +6,7 @@ const projects = [
         id : 1,
         title : "Hellena",
         description : "Hellena Project is one of my task project at campus for Web Programming course. This project is a doctor consultation and medicine selling website.",
-        img : './public/img/hellena.jpg',
+        img : '/img/hellena.jpg',
         tech : ['HTML','CSS','JS','Codeigniter'],
         github : 'https://github.com/Miharufikriansyah/Hellena'
     },
@@ -14,7 +14,7 @@ const projects = [
         id : 2,
         title : "Lakeside Money Report",
         description : "Lakeside Money Report is web application made for Lakeside Coffee Shop. It contain the cashflow, money report input, and the input history. This project is my internship program in campus.",
-        img : './public/img/lakeside.jpg',
+        img : '/img/lakeside.jpg',
         tech : ['HTML','CSS','JS','Codeigniter'],
         github : 'https://github.com/Miharufikriansyah/Lakeside'
     },
@@ -22,7 +22,7 @@ const projects = [
         id : 3,
         title : "Sword Blogger",
         description : "Sword Blogger is my personal blog project. This project has content about game called 'Pokemon Sword'. The content of the website are information article, guide, and many more.",
-        img : './public/img/sword-blog.jpg',
+        img : '/img/sword-blog.jpg',
         tech : ['HTML','Bootstrap'],
         github : 'https://github.com/Miharufikriansyah/Sword-Blogger'
     }
